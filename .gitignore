@@ -1,0 +1,16 @@
+.idea/
+.DS_Store
+*.log
+*.pyc
+.vscode
+__pycache__/
+env/
+.env
+
+# Ignore Java spring boot build files
+target/
+*.jar
+.mvn/
+.mvnw
+# Ignore node modules
+node_modules/
